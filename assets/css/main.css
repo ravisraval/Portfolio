@@ -3319,9 +3319,9 @@
 	}
 
 	body.landing #header {
-		background: #272833;
+		background: transparent;
 		box-shadow: none;
-		position: sticky;
+		position: absolute;
 	}
 
 /* Banner */
